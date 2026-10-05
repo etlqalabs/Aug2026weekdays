@@ -1,0 +1,4 @@
+deptno,employee_count,max_salary,min_salary,total_salary
+10,18,3000,1000,30900
+20,15,3200,1000,30000
+30,14,41000,1000,68700

@@ -1,3 +1,5 @@
+
+
 '''
 # Primitive data types : int, float,string,boolean
 # Non primitive data types (Collection data types) : list, tuple,set, dictionary
