@@ -1,3 +1,10 @@
+import pandas as pd
+pd.read_ex
+
+
+
+
+
 '''
 print("Hello ! Welcome to day 1 Python learning")
 
@@ -149,3 +156,4 @@ for ch in s1:
     sum = sum +ord(ch)
     print(ord(ch))
 print(sum)
+
