@@ -1,5 +1,6 @@
 import pandas as pd
-pd.read_ex
+df = pd.read_csv("snsns.csv")
+dfsource.equals(df_target)
 
 
 
